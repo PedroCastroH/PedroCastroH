@@ -1,14 +1,20 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=500&lines=Welcome+To+My+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=500&lines=Welcome+To+My+Profile!" alt="Typing SVG" />
   </a>
 </div>
 
 
+<div align="center">
+  <h3>- GitHub Stats -</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroCastroH&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-![Pedro Castro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCastroH&show_icons=true&theme=dracula)
+  <a href="https://github.com/PedroCastroH/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroCastroH&line_height=10&card_width=320&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760" alt="Most Used Languages">
+  </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCastroH&layout=compact&theme=dracula)
 
  ##
 
@@ -36,7 +42,6 @@ I am highly proactive and enjoy learning more every day about the technologies s
  ### 🔊 Connect with me!
  
 <div> 
-  <a href="https://www.instagram.com/pedroh__castro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrohcastrot@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-castro-6083592b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
