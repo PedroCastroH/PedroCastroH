@@ -12,8 +12,9 @@
 
  ##
 
-<p align="center">Estudante de Sistemas de informação Faculdade Impacta na Paraíso. Atualmente busco uma vaga de estágio.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Sou muito proativo e gosto de aprender mais todo dia sobre as tecnologias do mundo.
+<p align="center">Information Systems student at Faculdade Impacta, located in Paraíso. Currently seeking an internship opportunity.
+I am constantly updating my knowledge and looking for new challenges in the technology field.
+I am highly proactive and enjoy learning more every day about the technologies shaping the world.
 
  ##
  
@@ -41,3 +42,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
   
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroCastroH/PedroCastroH/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroCastroH/PedroCastroH/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroCastroH/PedroCastroH/output/github-contribution-grid-snake.svg">
+</picture>
+
